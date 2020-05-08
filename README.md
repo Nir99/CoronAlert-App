@@ -1,6 +1,6 @@
 # CoronAlert-App
 ## Coming soon
-An Android mobile app that notifies users when they enter a high-risk Coronavirus zone.
+An Android mobile app that notifies users when they enter a high-risk Coronavirus zone. Implemented with the HERE Android SDK and REST API
 
 ## Documentation
 ### Todo
