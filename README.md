@@ -6,8 +6,8 @@ An Android mobile app that notifies users when they enter a high-risk Coronaviru
 ### Todo
 #### Samrat
 - [x] Initial setup of HERE Android SDK
-- [ ] Processing CSV file into WKT format
-- [ ] Python script to push Coronavirus zone cases with HERE REST API
+- [x] Processing CSV file into WKT format
+- [x] Python script to push Coronavirus zone cases with HERE REST API
 - [ ] Checking the Proximity of a Geofence With HTTP in Android (*You need to install Volley. Here's a tutorial: https://www.thepolyglotdeveloper.com/2014/06/using-volley-android-make-http-requests/*)
 
 ####  Moksh
